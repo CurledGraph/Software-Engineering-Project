@@ -1,6 +1,0 @@
-In terminal do:
-
-git add -u
-git commit -m "Deleted Placeholder Doc"
-git push
- 
